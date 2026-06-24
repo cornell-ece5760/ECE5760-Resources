@@ -9,7 +9,11 @@ some software that could be useful!
 
 ## Git/GitHub
 A pre-dominate portion of this class will be on GitHub. Hence, students should 
-be particularly familiar with Git and GitHub. 
+be particularly familiar with GitHub and Git commands. Private repos will be
+created for each group of students. Please keep all lab work on these private
+repositories. This is because we are required to keep track of students work
+and so that you may open up a GitHub Issue in your repo, linking it on EdStem, 
+and staff can easily address them through GitHub!
 
 ## Vivado
 ## Vitis
@@ -24,3 +28,6 @@ programming and hardware description languages to do well in this course:
 - Verilog/SystemVerilog
 - C/C++
 - Python (Could be a plus)
+
+Authors: Hunter Adams, Dennis Bui, Anthony Song
+Last Updated: Jun 24, 2026
