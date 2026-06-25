@@ -10,6 +10,8 @@ student recommendations that will, hopefully, help you thrive in this class.
 
 A predominant portion of this ECE 5760 will be on [GitHub](https://github.com/). Hence, students should be particularly familiar with GitHub and Git commands. Private repos will be created for each group of students. Please keep all lab work on these private repositories and try to keep the repos up to date with your newest code. This is because the staff is required to keep track of students work. Seperatly, by keeping the github repos up to date, the staff will be able to open up your GitHub repos and address any [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart) you opened in your repo. This way, if you face any challenges, you make link the specific issue to a private EdStem post and the TA/staff can address it at their earliest convenience! 
 
+If you are unfamiliar with Git/Github or need to quickly brush up on the fundamentals, we provide a quick overview [here]()!
+
 ## Vivado
 ## Vitis
 
