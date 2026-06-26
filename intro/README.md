@@ -10,7 +10,7 @@ Pre-requisite knowledge, software, setup guides, and TA / past student recommend
 
 ---
 
-## Prerequisites
+# Prerequisites
 
 ECE 5725 is strongly recommended. You will need working knowledge of:
 
@@ -61,13 +61,13 @@ Not required to complete the labs, but potentially useful:
 
 ---
 
-## Reading
+# Reading
 
 Readings cover the theory for each lab and specific implementation techniques. Materials include research papers, Intel/Altera vendor manuals, and instructor-generated web pages.
 
 ---
 
-## Purpose
+# Purpose
 
 Design of system-on-chip applications for hardware acceleration using FPGAs. Students work in groups of 2–3 to design, debug, and build several systems demonstrating parallel FPGA hardware linked to an ARM processor running Linux. Lectures introduce examples, describe modules to be designed, and cover design tools used in lab.
 
@@ -83,7 +83,7 @@ Clever, efficient solutions are rewarded. Designs (C code, Verilog circuitry, an
 
 ---
 
-## Grading
+# Grading
 
 The course has two halves, weighted equally:
 
@@ -92,7 +92,7 @@ The course has two halves, weighted equally:
 | Laboratory assignments (Labs 1–3) | 50% |
 | Final project | 50% |
 
-### Laboratory Assignments (50%)
+## Laboratory Assignments (50%)
 
 Each lab is broken down as follows:
 
@@ -132,7 +132,7 @@ Each lab is broken down as follows:
 
 ---
 
-### Final Project (50%)
+## Final Project (50%)
 
 | Component | Weight |
 |---|---|
@@ -150,7 +150,7 @@ Each lab is broken down as follows:
 
 ---
 
-### Final Grade Breakdown by Component
+## Final Grade Breakdown by Component
 
 | Component | Lab 1 | Lab 2 | Lab 3 | Final Project |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ Each lab is broken down as follows:
 
 ---
 
-## Laboratory Policies
+# Laboratory Policies
 
 - **Do not** enter the lab during ECE 2300 class time — doing so results in a 0 for that week's checkoff and loss of lab access
 - Attend your assigned lab period every week and finish the assignment in the allotted time
@@ -182,11 +182,11 @@ Lab work is in **groups of 2–3**. All members must become proficient in all as
 
 ---
 
-## Academic Integrity
+# Academic Integrity
 
 Each student must abide by the [Cornell University Code of Academic Integrity](https://cuinfo.cornell.edu/aic.cfm). All submitted work will be the student's own. Submissions may be checked via Turnitin.com.
 
-### Collaboration — What's Allowed
+## Collaboration — What's Allowed
 
 | Allowed | Not Allowed |
 |---|---|
@@ -200,7 +200,7 @@ Each student must abide by the [Cornell University Code of Academic Integrity](h
 
 ---
 
-## AI Policies
+# AI Policies
 
 ### For Lab Reports
 
@@ -227,11 +227,11 @@ void foo() {
 
 ---
 
-## Laboratory Reports
+# Laboratory Reports
 
 One written report per group, submitted electronically via Canvas. Write to a level of detail such that in two years, you could recreate the project using only your report.
 
-### Suggested Report Structure
+## Suggested Report Structure
 
 1. **Introduction** — short explanation of what was done and the roles of the ARM and FPGA sides
 2. **RTL Description** — RTL-level description of your project and any relevant state machines
@@ -245,7 +245,7 @@ Example well-done reports from ECE 4760 are available on the course webpage. Aim
 
 ---
 
-## Access to Computers
+# Access to Computers
 
 You and your partner(s) have access to a PC, FPGA, etc. in Phillips 238 during your assigned lab period. Setups not needed by current-section students may be used by others.
 
@@ -253,7 +253,7 @@ You and your partner(s) have access to a PC, FPGA, etc. in Phillips 238 during y
 
 ---
 
-## Academic Concerns
+# Academic Concerns
 
 If you are experiencing undue personal or academic stress, seek support early. Available resources include:
 
